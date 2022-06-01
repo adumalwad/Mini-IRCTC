@@ -1,0 +1,175 @@
+*{
+	margin:0;
+	padding:0;
+}
+	
+html{	
+	scroll-behaviour:smooth;
+}
+	
+:root{	
+	--navbar-height:70px;
+}
+	
+
+	
+.background{
+	
+	/* The background image will change whenever
+	we load the page */
+	background: grey;
+	/* This will make the background that have
+	been added will be darken */
+	background-blend-mode:darken;
+	background-size:cover;
+}
+	
+.firstsection{
+	
+	/* It is to make the height of the
+	viewport to be 100 */
+	height:100vh;
+	background-image: url("images/background.jpg");
+
+}
+	
+.box-main{
+	
+	/* This is to display the contact us and the
+	sentences below it to be displayed in flex */
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	/* This is to display the text to have
+	a color of white */
+	color:white;
+	max-width:60%;
+	
+	/* Now we will set the margin to auto */
+	/* This will make all the text to be
+	displayed at the center of the page */
+	margin:auto;
+	
+	/* This will make the text to display at
+	the center of the page vertically */
+	height:80%;
+}
+	
+.firstHalf{	
+	width:75%;
+	flex-direction:column;
+	justify-content:center
+}
+	
+.firstHalf img{	
+	display:flex;
+	border-radius:9050px;
+}
+	
+.text-big{
+	font-family: 'Piazzolla', serif;
+	
+	/* The text to have a style of bold */
+	font-weight: bold;
+	color: #0A3735 ;
+	
+	/* The size of the text to be appearing as
+	bigger to distinguish itself from the text
+	in the class text-small */
+	font-size: 41px;
+	
+	/* The text to be aligned at center */
+	text-align:center;
+
+}
+	
+.text-small{	
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 18px;
+	text-align:center;
+	color: #D1CFCD ;
+}
+	
+
+	
+.btn{
+	padding:8px 20px;
+	margin:7px 0;
+	
+	/* The radius of the border will have a width of
+	2px and the type of border will be solid. The
+	border will have a border of white depending on
+	what type of image we have used as background */
+	border:2px solid white;
+	
+	/* Here we have used border-radius to make
+	the search button appear better */
+	border-radius:8px;
+	
+	/* To make the button have the color
+	of background */
+	background:none;
+	
+	/* To make the text of the button have
+	the color of white */
+	color:white;
+	cursor:pointer;
+}
+	
+.btn-sm{
+	padding:6px 10px;
+	vertical-align: middle;
+}
+	
+/* This is used here in case if we want to
+make the text appear at center */
+.center{
+	text-align: center;
+}
+	
+.text-footer {
+	text-align: center;
+	padding: 30px 0;
+	font-family: 'Ubuntu', sans-serif;
+	display: flex;
+	justify-content: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+  padding-right: 15px;
+
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
