@@ -1,7 +1,7 @@
 # Mini-IRCTC
 # CS315 DBMS Project IIT Kanpur (IITK)
 
-Hello guys !!! This project is an online railway ticket booking platform same as IRCTC. This project also consisted of a mailing feature (user get mail for booking/cancelling a ticket, email verification, tatkal booking) which helped me get extra marks. I have deleted all bookings and user details; you need to add them. 
+Hello guys !!! This project is an online railway ticket booking platform same as IRCTC. This project also consisted of a mailing feature (user get mail for booking/cancelling a ticket, email verification, tatkal booking) which helped me get extra marks (96 out of 100). I have deleted all bookings and user details; you need to add them. 
 
 **Front-end:** HTML, JavaScript,PHP, Bootstrap3,CSS \
 **Backend:** MySQL 
