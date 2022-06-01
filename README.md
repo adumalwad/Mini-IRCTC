@@ -16,8 +16,8 @@ To run this project properly on your system, you need to do the following steps:
 6)step 6: Run [http://localhost/railway](URL) on your browser, and you are ready to use :)
 
 
-**Remember:**\
- 1) **admin login:** username->cs315 password->cs15. (check .sql file for admin username and password)\
- 2) Before booking ticket, schedule train on that date.\
+**Remember:**
+ 1) **admin login:** username->cs315 password->cs15. (check .sql file for admin username and password)
+ 2) Before booking ticket, schedule train on that date.
  3) User can  not login without mail verification.
  4) Check foreign keys and primary key before delating particular table's data.
