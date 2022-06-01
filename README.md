@@ -13,4 +13,11 @@ To run this project properly on your system, you need to do the following steps:
 3)Step 3: Change the port number in "connect_database.php" according to your MySQL port number.\
 4)Step 4: To get all mailing features, use this link [https://www.codingnepalweb.com/configure-xampp-to-send-mail-from-localhost/](URL) \
 5)step 5: Start XAMPP (apache and MySQL).\
-6)step 6: Run [http://localhost/railway](URL) on your browser, and you are ready to use :) 
+6)step 6: Run [http://localhost/railway](URL) on your browser, and you are ready to use :)
+
+
+**Remember:**\
+ 1) **admin login:** username->cs315 password->cs15. (check .sql file for admin username and password)\
+ 2) Before booking ticket, schedule train on that date.\
+ 3) User can  not login without mail verification.
+ 4) Check foreign keys and primary key before delating particular table's data.
