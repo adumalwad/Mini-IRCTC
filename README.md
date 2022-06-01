@@ -1,9 +1,9 @@
 # Mini-IRCTC
 
-Hello guys !!! This poject is online railway ticket booking platform same as IRCTC.This project also consist of mailing feature (user get mail for booking/cancelling ticket, email verification, tatkal booking) which helped me to get extra marks.I have deleted all bookings and user details, you need to add them.
+Hello guys !!! This poject is online railway ticket booking platform same as IRCTC.This project also consist of mailing feature (user get mail for booking/cancelling ticket, email verification, tatkal booking) which helped me to get extra marks.I have deleted all bookings and user details, you need to add them. \
 
-Front-end: HTML, JavaScript,PHP, Bootstrap3,CSS
-Backend: MySQL
+Front-end: HTML, JavaScript,PHP, Bootstrap3,CSS \
+Backend: MySQL \
 
 To run this project properly on your system, you need to do following steps:
 
