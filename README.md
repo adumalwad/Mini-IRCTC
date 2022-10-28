@@ -1,7 +1,7 @@
 # Mini-IRCTC
 # CS315 DBMS Project IIT Kanpur (IITK)
 
-Hello guys !!! This project is an online railway ticket booking platform same as IRCTC. This project also consisted of a mailing feature (user get mail for booking/cancelling a ticket, email verification, tatkal booking) which helped me get extra marks (96 out of 100). I have deleted all bookings and user details; you need to add them. 
+Hello guys !!! This project is an online railway ticket booking platform similar to IRCTC. This project also consisted of a mailing feature (users get mail for booking/cancelling a ticket, email verification, and tatkal booking) which helped me get extra marks (96 out of 100). I have deleted all bookings and user details; you need to add them. 
 
 **Front-end:** HTML, JavaScript,PHP, Bootstrap3,CSS \
 **Backend:** MySQL 
@@ -17,8 +17,8 @@ To run this project properly on your system, you need to do the following steps:
 
 
 **Remember:**
- 1) **admin login:** username->cs315 password->cs315. (check .sql file for admin username and password)
- 2) Before booking ticket, schedule train on that date.
- 3) User can  not login without mail verification.
- 4) Check foreign keys and primary key before delating particular table's data.
- 5) Script folder does not have any use.All codes in this folder are already prsent required files.
+ 1) **admin login:** username->cs315 password->cs315. (check the .sql file for the admin username and password)
+ 2) Before booking a ticket, schedule a train on that date.
+ 3) User can not log in without mail verification.
+ 4) Check foreign and primary keys before deleting a particular table's data.
+ 5) Script folder does not have any use. All codes in this folder are already present required files.
